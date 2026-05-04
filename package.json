@@ -1,0 +1,1 @@
+{\n  "name": "railmod-website",\n  "version": "1.0.0",\n  "description": "Rail Mod Website",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "dev": "nodemon index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.11.15",\n    "express-session": "^1.17.1",\n    "passport": "^0.4.1",\n    "passport-local": "^1.0.0"\n  }\n}
